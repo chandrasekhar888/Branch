@@ -1,6 +1,11 @@
 Hi
 
+<<<<<<< Updated upstream
 class B {
 
 
+=======
+class A {
+sout(100)
+>>>>>>> Stashed changes
 }
